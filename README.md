@@ -150,29 +150,5 @@ RFM analysis divides customers into **5 segments**:
 - **Feature top 5 products** in marketing materials
 - **Bundle deals** with popular products
 - **Develop similar collections** to Dresses Drop 1
-
----
-
-## 🚀 Installation & Setup
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip (Python package manager)
-
-### Installation Steps
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/fashion-retail-analytics.git
-cd fashion-retail-analytics
-
-# 2. Create virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
 # 4. Run the project
 python main.py
