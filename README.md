@@ -150,5 +150,3 @@ RFM analysis divides customers into **5 segments**:
 - **Feature top 5 products** in marketing materials
 - **Bundle deals** with popular products
 - **Develop similar collections** to Dresses Drop 1
-# 4. Run the project
-python main.py
